@@ -1,0 +1,28 @@
+body{
+    display: flex;
+}
+
+section {
+  height: 135vh;
+  width: 50vh;
+  border: 1px solid black;
+}
+
+div .container {
+    width: 500px;
+}
+
+img {
+    width: 190px;
+    margin: auto;
+}
+
+button{
+    width: 450px;
+}
+
+form {
+    border: 1px solid rgb(83, 78, 78);
+    border-radius: 6px;
+    margin: 5px;
+}
